@@ -1,3 +1,16 @@
+/bin/
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/uploads/**
+/.vscode/
+/node_modules
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 # Compiled class file
 *.class
 
